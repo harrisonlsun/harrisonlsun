@@ -20,3 +20,9 @@ I'm a research engineer at the Traverso Laboratory at MIT and Brigham and Women'
 - 🔭 I’m currently working on novel neural network architectures for real-time learning in individualized medicine.
 - 🌱 I’m currently learning about advances in deep learning.
 - 📫 Check out my [website](https://www.hlsun.dev)! 
+
+<div align="center">
+  <a href="https://github.com/harrisonlsun/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harrisonlsun&layout=donut-vertical&theme=transparent&hide_border=true" alt="Top Langs" width="500" height="500"/>
+  </a>
+</div>
