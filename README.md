@@ -23,6 +23,6 @@ I'm a research engineer at the Traverso Laboratory at MIT and Brigham and Women'
 
 <div align="center">
   <a href="https://github.com/harrisonlsun/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harrisonlsun&layout=donut-vertical&theme=transparent&hide_border=true&langs_count=8" alt="Top Langs" width="400" height="400"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harrisonlsun&layout=donut-vertical&theme=transparent&hide_border=true&langs_count=4&hide=XS,XSLT" alt="Top Langs" width="400" height="400"/>
   </a>
 </div>
